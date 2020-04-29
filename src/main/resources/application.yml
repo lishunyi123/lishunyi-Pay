@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: lishunyi-Pay
+server:
+  port: 8080
+
+### config
+alipay:
+  app_id:
+  notify_url:
+  return_url:
+  version:
+
+
+
+
